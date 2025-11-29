@@ -120,7 +120,7 @@ Ciclo politico economico (teoria positiva)
 imposta pigouviana  
 lm con domande su variazione della formula perché cresce
 azzardo morale  
-bce  
+bce  x2
 inflazione  
 bioeconomia  
 politica fiscale restrittiva  
@@ -138,20 +138,17 @@ selezione avvera
 disoccupazione  
 politiche per la disoccupazione  
 politiche strutturali  
-politica fiscale  
+politica fiscale  x2
 retroazione monetaria  
 obbiettivi della BCE   
-politica monetaria  
+politica monetaria  x2
 curva is  
 Beni pubblici x2  
 Autorità indipendenti   
 Fallimenti microeconomici  
 I teorema del benessere e ottimo paretiano  
 ⁠concorrenza perfetta ed esternalitá  
-⁠inflazione e politica da attuare  
-beni pubblici   
-politica monetaria fiscale   
-bce  
+⁠inflazione e politica da attuare      
 ***
 Clea C  
 Cambiamenti climatici  
