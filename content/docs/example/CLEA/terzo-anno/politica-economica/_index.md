@@ -25,10 +25,11 @@ Retrieved 2025-11-27, License - CC BY-SA 4.0
 
 
 
-## Domande esami
+## Domande esami 2024/2025
 
 ### 2024/2025
-#### :teacher: Cascavilla
+#### :teacher: **Cascavilla**
+**Corso non specificato**  
 Esternalità    
 Teorema di coase  x 2  
 Politica monetaria in economia aperta     
@@ -47,12 +48,13 @@ Fenomeno dello spiazzamento
 Curva is lm  
 intervendo bella banca centrale per il fenomeno dello spiazzamento  
 ***
-Clea A  
+**Clea A**  
 Obiettivo della BCE  
 Curva LM  
 Caratteristiche dei Beni Pubblici ‎  
 
 #### :teacher: Morone
+**Corso non specificato**
 Ciclo economico politico  
 Curva di Phillips  
 I e II teorema del benessere  x2  
@@ -76,6 +78,7 @@ Decentramento e esempio autorità indipendenti
 Teoria della burocrazia  
 
 #### :teacher: Caferra
+**Corso non specificato**
 obiettivi fissi e flessibili  
 critica di Lucas  
 teorema di nordhaus  
@@ -93,7 +96,8 @@ Regola aurea
 asimmetria informativa    
 
 
-#### :teacher: Imbert
+#### :teacher: Imbert  
+**Corso non specificato**
 parlami delle politiche di bilancio (cioè le politiche fiscali)  
 rappresentazione IS LM  
 rappresentazione grafica effetto spiazzamento e retroazione monetaria   
@@ -114,13 +118,14 @@ Trade off inflazione disoccupazione  x2
 funzioni della bce,organi, di cosa si occupa, la storia  
 varie curve per politica monetaria restrittiva ed espansiva, come cambia ed esempi   
 
-#### :teacher: Non specificato  
+#### :teacher: Non specificato
+**Corso non specificato**  
 Spiazzamento (disegno curve IS-LM)  
 Ciclo politico economico (teoria positiva)   
 imposta pigouviana  
 lm con domande su variazione della formula perché cresce
 azzardo morale  
-bce  x2
+bce  x2  
 inflazione  
 bioeconomia  
 politica fiscale restrittiva  
@@ -150,7 +155,7 @@ I teorema del benessere e ottimo paretiano
 ⁠concorrenza perfetta ed esternalitá  
 ⁠inflazione e politica da attuare      
 ***
-Clea C  
+**Clea C**  
 Cambiamenti climatici  
 Esternalità e problemi dei diritti di proprietà  
-Disoccupazione e perché è un fallimento di mercato  
+Disoccupazione e perché è un fallimento di mercato
