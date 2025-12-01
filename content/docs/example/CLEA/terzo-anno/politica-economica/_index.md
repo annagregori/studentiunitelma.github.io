@@ -17,9 +17,9 @@ Retrieved 2025-11-27, License - CC BY-SA 4.0
 
 
 
-## Domande esami
+# Domande esami
 
-### 2024/2025 <a name="paragraph1"></a>
+## 2024/2025 <a name="paragraph1"></a>
 
 #### :teacher: **Morone**
 **Corso non specificato**  
@@ -337,7 +337,7 @@ Efficenza ed Equità
 Regola Aurea  
 Inflazione cause e politiche   
 
-### 2025/2026 <a name="paragraph2"></a>
+## 2025/2026 <a name="paragraph2"></a>
 
 #### :teacher: Imbert  
 
