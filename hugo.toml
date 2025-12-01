@@ -28,22 +28,12 @@ enableEmoji = true
 
 [menu]
 [[menu.home]]
-  name = 'Documentation'
+  name = 'CLEA'
   pageRef = '/docs/example/'
   weight = 1
 
 [[menu.home]]
-  pageRef = '/docs/example/'
+  name = "3° Anno"
+  pageRef = '/docs/example/cleaterzo-anno/politica-economica/'
   weight = 10
-  parent = 'Documentation'
-
-[[menu.home]]
-  name = 'Shortcode'
-  pageRef = '/docs/shortcodes/buttons/'
-  weight = 20
-  parent = 'Documentation'
-
-[[menu.home]]
-  name = 'Showcase'
-  pageRef = '/showcases/'
-  weight = 2
+  parent = 'CLEA'

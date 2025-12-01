@@ -5,6 +5,6 @@ layout: landing
 
 <div class="book-hero text-center">
 
-# At the moment this page is empty
+# Al momento la pagine è vuota.
 
 <div>
