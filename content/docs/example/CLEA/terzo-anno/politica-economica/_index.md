@@ -26,7 +26,7 @@ Retrieved 2025-11-27, License - CC BY-SA 4.0
 Ciclo economico politico  
 Curva di Phillips  
 I e II teorema del benessere  x2  
-Teorema di Coase  x3
+Teorema di Coase  x3  
 ottimo paretiano x2  
 beni pubblici e perché sono un fallimento  
 is lm e politica fiscale espansiva (con retroazione monetaria e spiazzamento)  
@@ -85,7 +85,7 @@ modello Is Lm e vari spostamenti della curva e conseguenze sulle varie politiche
 regola aurea  
 ottimo paretiano  
 politica monetaria  
-
+***
 
 #### :teacher: **Cascavilla**  
 **Corso non specificato**    
@@ -117,7 +117,7 @@ bce
 Obiettivo della BCE  
 Curva LM  
 Caratteristiche dei Beni Pubblici ‎  
-
+***
 #### :teacher: **Colasanti**    
 **Corso non specificato**  
 politica fiscale espansiva monetaria inflazione
@@ -138,9 +138,8 @@ Problemi di delega
 Inflazione  
 Cosa farebbe il PM per diminuire l'inflazione  
 Modello Is/lm e retroazione monetaria  
-
 ***
-**LMG**
+**LMG**   
 azzardo morale e selezione avversa  
 IS/IM  
 decentramento  
@@ -292,8 +291,8 @@ Curva IS
 Inflazione   
 
 ***
-**Clea A**
-inflazione, le cause e le varie politiche per risolverla (anche recentemente fino a poco tempo fa cosa ha causato l inflazione e come si è risolta)  
+**Clea A**  
+inflazione,le cause e le varie politiche per risolverla (anche recentemente fino a poco tempo fa cosa ha causato l inflazione e come si è risolta)  
 ⁠modello is-lm con grafico e politica monetaria restrittiva   
 secondo teorema dell’ economia del benessere   
 limiti del primo teorema dell economia del benessere   
@@ -327,21 +326,21 @@ Cambiamenti climatici
 Esternalità e problemi dei diritti di proprietà  
 Disoccupazione e perché è un fallimento di mercato
 ***
-**Scams A**
-Target BCE
-Cosa può fare la banca se vuole aumentare l’occupazione ( parlare della curva di Philips)
-Selezione avversa
-Azzardo morale
-Primo e secondo teorema del benessere  
-Efficenza ed Equità  
-Regola Aurea  
-Inflazione cause e politiche   
-
+**Scams A**  
+Target BCE  
+Cosa può fare la banca se vuole aumentare l’occupazione ( parlare della curva di Philips)  
+Selezione avversa  
+Azzardo morale  
+Primo e secondo teorema del benessere    
+Efficenza ed Equità    
+Regola Aurea    
+Inflazione cause e politiche     
+***
 ## 2025/2026 <a name="paragraph2"></a>
 
 #### :teacher: Imbert  
 
-**Clea C**
+**Clea C**  
 sostenibilità (testo banca d’italia) x2    
 asimmetrie informative
 esternalità e soluzioni (Pigou)  
@@ -350,18 +349,19 @@ teorema di Coase e limiti
 Beni pubblici
 Inflazione
 IS LM (con disegno)
-
+***
 
 
 #### :teacher: Non specificato  
-**Clea A**
+**Clea A**  
 Esternalità   
 Costi di transazione legati ad asimmetria informativa  
-Beni pubblici   
+Beni pubblici  
+***
 **Clea C**  
-Esternalità
-Concorrenza perfetta
-Primo teorema del benessere
-Teoria di coase
-Tassa Pigouviana
-Argomento a piacere della parte sulla sostenibilità
+Esternalità  
+Concorrenza perfetta  
+Primo teorema del benessere  
+Teoria di coase  
+Tassa Pigouviana  
+Argomento a piacere della parte sulla sostenibilità  
