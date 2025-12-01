@@ -9,25 +9,17 @@ Retrieved 2025-11-27, License - CC BY-SA 4.0
 
 **[1. Domande esami](#domande-esami)**
 
-  * [1.1. 2024/2025](#2024/2025)
-  * [1.2. Markdown formatting details](#heading--1-2)
+  * [2024/2025](#paragraph1)
+  * [2025/2026](#paragraph2)
 
-**[Appunti](#appunti)**
-
-  * [2.1. Basic text formatting](#heading--2-1)
-
-      * [2.1.1. Not so basic text formatting](#heading--2-1-1)
-
-  * [2.2. Lists, Images, Code](#heading--2-2)
-  * [2.3. Special features](#heading--2-3)
 
 ----
 
 
 
-## Domande esami 2024/2025
+## Domande esami
 
-### 2024/2025
+### 2024/2025 <a name="paragraph1"></a>
 #### :teacher: **Cascavilla**
 **Corso non specificato**  
 Esternalità    
@@ -159,3 +151,5 @@ I teorema del benessere e ottimo paretiano
 Cambiamenti climatici  
 Esternalità e problemi dei diritti di proprietà  
 Disoccupazione e perché è un fallimento di mercato
+
+## Domande esami 2025/2026 <a name="paragraph2"></a>
